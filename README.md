@@ -1,3 +1,6 @@
+I built a React application using Vite that demonstrates the use of PropTypes to validate component props such as name, age, and student status, ensuring type safety and reliable component behavior.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
